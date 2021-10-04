@@ -1,12 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=174&section=header&text=paris&fontSize=59)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=blue&height=300&section=header&text=paris&fontSize=59&desc=Hwangseok%20Kim&descAlign=57&descAlignY=60&rotate=346&animation=fadeIn)
+
 
 
 <!---
 Hwangseok-Paris/Hwangseok-Paris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> 
-## 김황석(Hwangseok Paris Kim)  
-- 경기대학교 기계시스템공학과 학사
+## History
+- 경기대학교 기계시스템공학과 졸업  
 - 주식회사엠피엠지 - 해피로봇 레코드 대리
 - JAVA&Python 기반 빅데이터 시각화 전문 개발자 양성 과정 수료(2021.01 - 2021.06)
 
@@ -49,8 +50,5 @@ You can click the Preview link to take a look at your changes.
   
   
   
-  
-<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangseok-Paris&count_bg=%23464D40&title_bg=%23FF0000&icon=&icon_color=%23090707&title=hits&edge_flat=true"/></a>
-
 
   
