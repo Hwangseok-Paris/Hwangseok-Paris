@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
   
   
   
-<a href="https://hits.seeyoufarm.com" align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangseok-Paris&count_bg=%23464D40&title_bg=%23FF0000&icon=&icon_color=%23090707&title=hits&edge_flat=true"/></a>
+<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangseok-Paris&count_bg=%23464D40&title_bg=%23FF0000&icon=&icon_color=%23090707&title=hits&edge_flat=true"/></a>
 
 
   
