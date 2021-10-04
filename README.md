@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=blue&height=300&section=header&text=paris&fontSize=59&desc=Hwangseok%20Kim&descAlign=57&descAlignY=60&rotate=346&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=%20paris%20%20&fontSize=59&desc=Hwangseok%20Kim&descAlign=57&descAlignY=60&rotate=346&animation=fadeIn&)
 
 
 
