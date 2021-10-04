@@ -8,4 +8,13 @@
 <!---
 Hwangseok-Paris/Hwangseok-Paris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---> 
+
+
+<img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/HTML5-FFFF00?style=for-the-badge&logo=HTML5&logoColor=#E34F26"/></a>
+<img src="https://img.shields.io/badge/JavaScript-FFFF00?style=flat&logo=JavaScript&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/JavaScript-FFFF00?style=flat-square&logo=JavaScript&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
+
