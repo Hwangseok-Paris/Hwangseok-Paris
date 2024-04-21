@@ -31,6 +31,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=로고색"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=falt-square&logo=vue.js&logoColor=white"></a>
 
 <!--
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank">
