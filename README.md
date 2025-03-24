@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=%20paris%20%20&fontSize=59&desc=Hwangseok%20Kim&descAlign=57&descAlignY=60&rotate=346&animation=fadeIn&)
-
-
-
 <!---
 Hwangseok-Paris/Hwangseok-Paris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
