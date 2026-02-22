@@ -3,10 +3,11 @@ Hwangseok-Paris/Hwangseok-Paris is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 ---> 
 ## History
-- 경기대학교 기계시스템공학과 졸업  
-- 주식회사엠피엠지 - 해피로봇 레코드 대리
-- JAVA&Python 기반 빅데이터 시각화 전문 개발자 양성 과정 수료(2021.01 - 2021.06)
 - 주식회사 코드클릭 재직중(솔루션사업부 - 대리 / 2021. 11 ~ )
+- JAVA&Python 기반 빅데이터 시각화 전문 개발자 양성 과정 수료(2021.01 - 2021.06)
+- 주식회사엠피엠지 - 해피로봇 레코드 대리
+- 경기대학교 기계시스템공학과 졸업  
+
 
   
 <br>
